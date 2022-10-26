@@ -15,7 +15,5 @@
   "devDependencies": {
     "concurrently": "^5.1.0"
   },
-  "dependencies": {
-    "media-typer": "^1.1.0"
-  }
+  "dependencies": {  }
 }
